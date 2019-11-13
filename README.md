@@ -1,3 +1,12 @@
+#######
+This is an unofficial portfolio which will be completely rebuilt from ground up :)
+#######
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
